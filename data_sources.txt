@@ -1,0 +1,2 @@
+FIADB - https://apps.fs.usda.gov/fia/datamart/datamart.html
+SCAN - https://www.drought.gov/data-maps-tools/soil-climate-analysis-network-scan
